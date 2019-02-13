@@ -4,3 +4,6 @@
 - Install MongoDB & Mongoosse 
 - Use basic CRUD operations - Create , Read , Update & Delete 
 - Mocho (testing framework)mk
+
+- running mongo db 
+- mongod for linux
