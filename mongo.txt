@@ -1,0 +1,6 @@
+-NoSQL Database 
+- Use it anytime you want to store data and persist it in your app 
+- Mongo is the M in MEAN
+- Install MongoDB & Mongoosse 
+- Use basic CRUD operations - Create , Read , Update & Delete 
+- Mocho (testing framework)mk
